@@ -5,3 +5,5 @@ RU:
 EN:
 In short, this is a rizuhookv1 resource that I do not need and it is outdated for updates. Update it yourself, bring it to mind, but it is far from level v2, merge v1 because v2 came out.
 and if yougame (south) has themes with a source, leave credits to me or to this repository.
+
+thx for download this!

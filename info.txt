@@ -1,0 +1,7 @@
+RU:
+Кароче, это сурс rizuhookv1 который мне не нужен и он outdated по обновам. Обновляйте его сами, доводите до ума, но до уровня v2 ему далеко, сливаю v1 потому что вышел v2.
+и если на yougame (юг) будут темы с сурсом, оставляйте кредиты на меня или на этот репозиторий.
+
+EN:
+In short, this is a rizuhookv1 resource that I do not need and it is outdated for updates. Update it yourself, bring it to mind, but it is far from level v2, merge v1 because v2 came out.
+and if yougame (south) has themes with a source, leave credits to me or to this repository.
